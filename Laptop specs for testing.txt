@@ -1,0 +1,8 @@
+Laptop specs for testing: 
+
+Model, Series, Ram, Weight, Touchscreen, IPS Panel, PPI, Cpu brand, HDD, SSD, Gpu, Brand, OS
+
+1. Dell, Notebook,  8, 1.90,  0, 0, 141.211998, Intel Core i5, 0,    256, Intel,  Windows
+2. Lenovo, Gaming,  8, 2.50,  0, 1, 141.211998, Intel Core i5, 1000, 128, Nvidia, Windows
+3. Dell, Gaming,    32, 4.42, 0, 1, 127.335675, Intel Core i7, 1000, 256, Nvidia, Windows
+4. Asus, Ultrabook, 16,	1.63, 0, 0, 141.211998,	Intel Core i7, 0,    512, Nvidia, Windows
