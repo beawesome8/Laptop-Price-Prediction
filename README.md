@@ -1,6 +1,6 @@
 # Laptop-Price-Prediction
 
-This project aims to predict the price of laptops based on various features like model, brand, specifications, and other attributes. The application is built using Streamlit for the frontend interface and leverages machine learning models built with scikit-learn and RandomForestRegressor for prediction. As an extra measure i have implemented Voting regressor and Stacking to commpare the model score with the ebase models.
+This project aims to predict the price of laptops based on various features like model, brand, specifications, and other attributes. The application is built using Streamlit for the frontend interface and leverages machine learning models built with scikit-learn and RandomForestRegressor for prediction. As an extra measure i have implemented Voting regressor and Stacking to compare the model score with the base models.
 
 # Project Structure
 
